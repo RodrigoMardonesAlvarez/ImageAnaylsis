@@ -44,6 +44,6 @@ class MainActivity : AppCompatActivity() {
 
 
 
-    @RequiresApi (value = 26 )
-    class PreviewView : FrameLayout
+    //@RequiresApi (value = 26 )
+    //class PreviewView : FrameLayout
 }
