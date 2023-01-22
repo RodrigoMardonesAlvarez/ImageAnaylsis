@@ -43,7 +43,6 @@ class MainActivity : AppCompatActivity() {
         }
 
 
-    // ANDROID 26 OREO
     //@RequiresApi (value = 26 )
     //class PreviewView : FrameLayout
 }
