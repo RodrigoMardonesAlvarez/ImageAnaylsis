@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ImageAnaylsis</string>
+    <string name="takePhoto">Take Photo</string>
 </resources>
